@@ -1,0 +1,19 @@
+body {
+  background-image: url(images/bg.jpg);
+  background-size: cover;
+  color: white;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.section {
+  margin-top: 50px;
+}
+
+.img-fluid {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
